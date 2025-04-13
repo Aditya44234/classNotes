@@ -1,1 +1,1 @@
-# classNotes
+# ClassNotes
